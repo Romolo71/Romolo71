@@ -21,4 +21,21 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Romolo71&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
+
+## 👾 Pacman
+<!--- Source: https://github.com/abozanona/pacman-contribution-graph -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph.svg">
+</picture>
+
+## 🐍 Snake
+<!--- Source: https://github.com/Platane/snk -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
