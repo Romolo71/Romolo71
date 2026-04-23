@@ -1,9 +1,6 @@
 # 💫 About Me:
 🇮🇹 Venice, Italy<br>🎓 IT Student at ITIS C. Zuccante<br>🧑🏻‍💻 Software and Web developer<br>🦾 Robotics<br>🏎️ F1 fan
 
-<p align="center">
-  <img src="https://readme-marquee.vercel.app/api?text=>>%20SYSTEM%20ONLINE%20•%20SKILLS:%20JS%20|%20PYTHON%20|%20SECURITY%20•%20STATUS:%20CODING%20•%20ERRORS:%200%20<<&bg=000000&fg=E50914&speed=60" />
-</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ikitus_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikitus_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ikitus_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:romolo.romulus.771@gmail.com) 
